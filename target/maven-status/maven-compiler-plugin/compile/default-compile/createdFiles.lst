@@ -1,0 +1,10 @@
+com/example/App.class
+com/example/sock/ArrayListSockMerchant.class
+com/example/valley/Counter.class
+com/example/sock/ISockMerchant.class
+com/example/clouds/JumpingOnClouds.class
+com/example/valley/ValleyCounter.class
+com/example/magicsquare/MagicSquareChallenge.class
+com/example/clouds/ICloudJumper.class
+com/example/sock/SockMerchant.class
+com/example/valley/CounterWithStreams.class
